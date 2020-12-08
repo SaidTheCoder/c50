@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(255, 255, 255);
+}
+.grid{
+    display:flex;
+    flex-wrap: wrap;
+}
+
+.origami{
+    border-radius: 30px;
+    background-color: wheat ;
+    width:300px
+}
+
+.header{
+    background-color: wheat;
+}
